@@ -1,13 +1,6 @@
-<<<<<<< HEAD
 streamlit
 pandas
+numpy
 scikit-learn
-plotly
 nltk
-=======
-streamlit
-pandas
-scikit-learn
 plotly
-nltk
->>>>>>> ec77920 (Initial commit - sentiment project)
