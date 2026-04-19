@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pickle
 import pandas as pd
@@ -214,4 +213,4 @@ def preprocess_text(text):
     words = [lemmatizer.lemmatize(w) for w in words]
 
     return " ".join(words)
->>>>>>> ec77920 (Initial commit - sentiment project)
+
